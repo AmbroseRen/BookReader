@@ -6,7 +6,7 @@ Press "m" on keyboard for open menu.
 
 ## Preview
 
-[Online Preview go to](https://ztftrue.github.io/BookReader/)
+[Online Preview go to](https://AmbroseRen.github.io/BookReader/)
 
 ![main](./screenshot/main.png)
 
